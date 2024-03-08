@@ -1,4 +1,5 @@
 const MoodContractAddress = '0xe8dd69c5ab5c7f9b340e75a097c4e3cbe3571872';
+
 const MoodContractABI = [{
         "inputs": [],
         "name": "getMood",
